@@ -8,6 +8,7 @@ Skills: c/java/graphics design/microsoft office work
 - 🌱 I’m currently learning java language  
 - 💬 Ask me about my skills 
 - ⚡ Fun fact: i can speak in 3 different  lannguage 
+- gmail Id-reanmahmudsr@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SyedReanMahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rean.rean.161)  
